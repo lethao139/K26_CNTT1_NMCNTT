@@ -18,6 +18,6 @@ cd lich-hoc-app
 ## 📊 Bảng So sánh Công nghệ
 
 | Công nghệ | Mục đích | Phiên bản |
-| --- | --- | --- |
+| :--- | :---: | ---: |
 | Python | Backend xử lý dữ liệu | 3.11 |
 | Markdown | Viết tài liệu README | - |
