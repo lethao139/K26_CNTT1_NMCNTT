@@ -3,8 +3,8 @@
 ## IO
 | Render | Github |
 | :--- | :--- | 
-| Input | Tên CLB, mô tả ngắn CLB, <br> danh sách ban(tên, leader, email), <br> hướng dẫn gia nhập, <br> Task for new member <br>, deadline, rule |
-| Output | readme.md trên github: Heading phân cấp H1/H2, in đậm điểm nổi bật, emoji, <br> table danh sách ban ( mail dạng link), <br> Ordered List 3-5 bước với lệnh git trong Code Block, <br> Task List tối thiểu 5 mục (mix \[x\] đã có sẵn và \[ \] cần làm), <br> Blockquote chứa thông tin deadline và quy tắc ứng xử CLB |   
+| Input | Tên CLB, mô tả ngắn CLB, <br> Danh sách ban(tên, leader, email), <br> Hướng dẫn gia nhập, <br> Task for new member, deadline, rule |
+| Output | Readme.md trên github: Heading phân cấp H1/H2, in đậm điểm nổi bật, emoji, <br> Table danh sách ban ( mail dạng link), <br> Ordered List 3-5 bước với lệnh git trong Code Block, <br> Task List tối thiểu 5 mục (mix \[x\] đã có sẵn và \[ \] cần làm), <br> Blockquote chứa thông tin deadline và quy tắc ứng xử CLB |   
 
 ## solution
 | Phần |	Cú pháp Markdown |
