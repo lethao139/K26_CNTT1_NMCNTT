@@ -45,7 +45,7 @@ Chào mừng bạn đến với **CLB Aititi PTIT** — nơi hội tụ những 
 - [x] Đọc nội quy và xác nhận đồng ý
 - [ ] Hoàn thành bài test đầu vào trên Codeforces
 - [ ] Tham gia ít nhất 1 buổi training trực tiếp
-- [ ] Tạo Request đầu tiên vào repo CLB
+- [ ] Tạo Pull Request đầu tiên vào repo CLB
 
 ## ⚠️ Lưu ý quan trọng
 
@@ -54,4 +54,4 @@ Chào mừng bạn đến với **CLB Aititi PTIT** — nơi hội tụ những 
 > **Quy tắc ứng xử:**
 > - Tôn trọng mọi thành viên, không phân biệt trình độ.
 > - Không spam, không quảng cáo trong các kênh chính thức.
-> - Mọi đóng góp code phải qua Request, không push trực tiếp vào `main`.
+> - Mọi đóng góp code phải qua Pull Requests, không push trực tiếp vào `main`.
