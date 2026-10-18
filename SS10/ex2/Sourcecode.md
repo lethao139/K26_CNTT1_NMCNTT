@@ -56,6 +56,16 @@
                              */5 * * * * python3 /home/pi/read_dht22.py
    ```
 ## 3. Sơ đồ kết nối
+<img width="325" height="288" alt="image" src="https://github.com/user-attachments/assets/bbe81f8f-efe4-466c-8127-c2762b3a57a4" />
+
+## 4. Vị trí lắp đặt
+<img width="327" height="173" alt="image" src="https://github.com/user-attachments/assets/e2283b88-c382-4a38-8cf5-643b408db40c" />
+
+# 5. Kiểm tra kết quả: Kết quả mẫu khi chạy lệnh ở bước 5
+```python
+Temp=28* Humidity67.1%
+pi@farm=~ $
+```
 
 ## 6. Task List kiểm tra thiết bị
 
