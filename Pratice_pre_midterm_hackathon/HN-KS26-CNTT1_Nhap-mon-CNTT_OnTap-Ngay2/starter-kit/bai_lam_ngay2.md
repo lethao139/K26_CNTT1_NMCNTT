@@ -2,7 +2,7 @@
 
 - **Họ tên:** Le Thao
 - **Lớp:** CNTT1
-- **Link repository:**
+- **Link repository:** https://github.com/lethao139/K26_CNTT1_NMCNTT/tree/main/Pratice_pre_midterm_hackathon/HN-KS26-CNTT1_Nhap-mon-CNTT_OnTap-Ngay2
 - **Hệ điều hành (Windows/macOS):** Win
 
 ## Bài 1. Lọc log thủ công
