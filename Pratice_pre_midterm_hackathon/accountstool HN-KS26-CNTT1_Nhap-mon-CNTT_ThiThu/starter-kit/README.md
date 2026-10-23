@@ -5,14 +5,10 @@
 <!--markdown-->
 
 |  Thư mục  |  Nội dung  |
-
-| --- | --- |
-
-| docs | Tài liệu |
-
-| media	| Hình ảnh |
-
-| logs | Nhật ký hệ thống |
+|  ---  |  ---  |
+|  docs  | Tài liệu |
+|  media	|  Hình ảnh  |
+|  logs |  Nhật ký hệ thống  |
 
 
 
