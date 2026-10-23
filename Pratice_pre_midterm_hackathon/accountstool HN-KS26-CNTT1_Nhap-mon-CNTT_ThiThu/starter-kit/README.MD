@@ -1,6 +1,6 @@
-\# Van Phong Pham Website
+# Van Phong Pham Website
 
-Đây là dự án \*\*quản lý\*\* cửa hàng văn phòng phẩm với giao diện \*website\*.
+Đây là dự án **quản lý** cửa hàng văn phòng phẩm với giao diện *website*.
 
 
 
@@ -16,7 +16,7 @@
 
 
 
-\## Liệt kê dự án
+## Liệt kê dự án
 
 
 
@@ -28,15 +28,15 @@ Get-ChildItem -Force
 
 
 
-\## Công việc
+## Công việc
 
-\- \[x] Tổ chức thư mục
+- [x] Tổ chức thư mục
 
-\- \[ ] Kiểm tra hệ thống
+- [ ] Kiểm tra hệ thống
 
 
 
-> \*\*Lưu ý quan trọng:\*\* Tuyệt đối không bao giờ upload file `.env` lên các kho lưu trữ mã nguồn công khai.
+> **Lưu ý quan trọng:** Tuyệt đối không bao giờ upload file `.env` lên các kho lưu trữ mã nguồn công khai.
 
 
 
