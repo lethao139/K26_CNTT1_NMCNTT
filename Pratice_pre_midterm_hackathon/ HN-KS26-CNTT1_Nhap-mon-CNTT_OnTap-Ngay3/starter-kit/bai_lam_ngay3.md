@@ -1,6 +1,6 @@
 # BÀI LÀM – ÔN TẬP NGÀY 3
 
-- **Họ tên:** Mai Việt Dũng
+- **Họ tên:** Le Thao
 - **Lớp:** CNTT1
 - **Link repository:**
 - **Hệ điều hành (Windows/macOS):** Windows
