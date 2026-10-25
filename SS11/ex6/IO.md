@@ -8,7 +8,7 @@
  - Dùng VLOOKUP (với tham số FALSE) kết hợp cố định vùng tham chiếu $ để tìm các thông tin tương ứng
 - Output 
  - Các ô kết quả tự động điền Tên linh kiện, Nhà cung cấp và Đơn giá chính xác tương ứng với Mã LK vừa nhập
- - 
+   
 2
 - File Word (SRS - SmartFarm):
  - Sử dụng Heading 1 cho các mục lớn (1. Giới thiệu, 2. Mô tả chức năng...), Heading 2 cho các mục nhỏ (2.1 Tưới nước tự động...).
