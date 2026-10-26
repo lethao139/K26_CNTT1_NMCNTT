@@ -1,8 +1,8 @@
-# 1
+# 1 - **Phân tích:** Xác định Record và Field trong bảng Excel giao dịch
 - Record: Là 1 hàng ngang chứa toàn bộ thông tin của một giao dịch duy nhất
 - Field: Là 1 cột dọc chứa cùng một loại thông tin cho tất cả các giao dịch
 
-# 2
+# 2 - **Triển khai:** Bộ 3 file Word, Excel, PowerPoint
 
 ## 2.1 Word
 - Heading 1: 1. Giới thiệu | 2. Tổng quan tính năng | 3. Luồng nghiệp vụ | 4. Mô tả chi tiết...
