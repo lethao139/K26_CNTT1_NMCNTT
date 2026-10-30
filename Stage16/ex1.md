@@ -1,7 +1,7 @@
 # 1.**Bối cảnh & Vấn đề**
 Nhóm của bạn đang thực hiện dự án Số hóa Bảo tàng PTIT. Bạn A chịu trách nhiệm thiết kế 3D các hiện vật. Do thói quen cũ, bạn A chỉ lưu file trên ổ cứng Local và thỉnh thoảng nén gửi qua Zalo. Tối qua, ổ cứng máy bạn A bị lỗi "Bad Sector" khiến file thiết kế quan trọng bị hỏng, trong khi bản gửi trên Zalo đã hết hạn tải về.
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/f38d591a-d407-43c8-a66a-ddc865fc0b28" />
-# 2. **Yêu cầu **
+# 2.**Yêu cầu**
 - Thiết kế một quy trình làm việc lai (Hybrid Workflow) đảm bảo file luôn có bản sao lưu tức thời trên Cloud ngay khi nhấn Ctrl + S.
 
 - Xây dựng phương án dự phòng sử dụng Version History để cả nhóm có thể quay ngược thời gian lấy lại bản vẽ ổn định nhất nếu bản hiện tại bị lỗi.
@@ -12,7 +12,7 @@ Nhóm của bạn đang thực hiện dự án Số hóa Bảo tàng PTIT. Bạn
 
 - Quy trình thực thi: Danh sách 3 bước thiết lập phần mềm đồng bộ chuẩn cho một Designer.
 
-# 3. ** Giai quyết vấn đề **
+# 3.**Giai quyết vấn đề**
 
 ## PHẦN 1: BÁO CÁO PHÂN TÍCH
 
