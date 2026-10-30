@@ -30,4 +30,4 @@ Nhóm của bạn đang thực hiện dự án Số hóa Bảo tàng PTIT. Bạn
 
 * **Bước 1 - Đưa vào vùng Cloud:** Di chuyển thư mục làm việc (`D:\PTIT_Museum`) vào thẳng thư mục đồng bộ của OneDrive/Google Drive.
 * **Bước 2 - Cấu hình Sync:** Bật **AutoSync**. (Khuyên dùng: Bật tính năng *Files On-Demand* để không tốn dung lượng ổ cứng chứa file cũ).
-* **Bước 3 - Kích hoạt Version History:** Click chuột phải vào file thiết kế trên Cloud \(\rightarrow\) Chọn **Version History** để xem và **Restore** (Khôi phục) bản 3D ổn định nhất khi bị lỗi.
+* **Bước 3 - Kích hoạt Version History:** vào file thiết kế trên Cloud Chọn **Version History** để xem và **Restore** (Khôi phục) bản 3D ổn định nhất khi bị lỗi.
