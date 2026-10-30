@@ -1,5 +1,5 @@
 ### PHẦN 1: BÁO CÁO PHÂN TÍCH (I/O)
-**Luồng dữ liệu từ `Ctrl+S` đến Tích xanh:**
+
 1. **Input:** Lập trình viên nhấn `Ctrl+S`, file được ghi vào ổ cứng Local (SSD).
 2. **Process:** Phần mềm Sync (OneDrive/Drive) phát hiện file thay đổi. Nó kiểm tra xem file có nằm trong danh sách **Ignore/Exclude** không.
 3. **Upload:** Nếu hợp lệ, file được chia nhỏ (chunking) và đẩy lên Cloud. 
