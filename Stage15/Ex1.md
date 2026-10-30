@@ -4,7 +4,7 @@
 3.  Gửi qua Zalo gây rối loạn, dễ nhầm lẫn.
 
 ### PHẦN 2: QUY TRÌNH HYBRID WORKFLOW
-* **Bước 1 Chuyển thư mục D:\Project vào OneDrive/Google Drive.
-* **Bước 2  Code trực tiếp trên máy bằng VS Code (mượt mà), bật AutoSave để đồng bộ ngầm.
-* **Bước 3  Khi lỡ xóa nhầm, mở thư mục Cloud -> Chuột phải file -> Chọn **Version History** -> Bấm **Restore**.
+* Bước 1 Chuyển thư mục D:\Project vào OneDrive/Google Drive.
+* Bước 2  Code trực tiếp trên máy bằng VS Code (mượt mà), bật AutoSave để đồng bộ ngầm.
+* Bước 3  Khi lỡ xóa nhầm, mở thư mục Cloud -> Chuột phải file -> Chọn **Version History** -> Bấm **Restore**.
 
