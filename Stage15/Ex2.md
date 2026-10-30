@@ -13,11 +13,11 @@
 **2. Sơ đồ tổ chức thư mục Cloud chuẩn:**
 ```text
 📁 Startup_Project (Thư mục gốc)
- ┣ 📁 01_Code (Chứa source code sạch)
- ┃ ┣ 📁 src
- ┃ ┣ 📁 public
- ┃ ┣ 📄 package.json
- ┃ ┗ 📄 .gitignore (Khai báo bỏ qua node_modules)
- ┣ 📁 02_Docs (Tài liệu, SRS, Hợp đồng)
- ┣ 📁 03_Assets (Hình ảnh, Logo, Video)
- ┗ 📁 04_Config (File cấu hình môi trường)
+  📁 01_Code (Chứa source code sạch)
+    📁 src
+ 📁 public
+ 📄 package.json
+  📄 .gitignore (Khai báo bỏ qua node_modules)
+ 📁 02_Docs (Tài liệu, SRS, Hợp đồng)
+ 📁 03_Assets (Hình ảnh, Logo, Video)
+ 📁 04_Config (File cấu hình môi trường)
