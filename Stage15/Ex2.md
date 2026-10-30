@@ -1,9 +1,9 @@
 ### PHẦN 1: BÁO CÁO PHÂN TÍCH (I/O)
 
-1. **Input:** Lập trình viên nhấn `Ctrl+S`, file được ghi vào ổ cứng Local (SSD).
+1. **Input:** Lập trình viên nhấn , file được ghi vào ổ cứng Local (SSD).
 2. **Process:** Phần mềm Sync (OneDrive/Drive) phát hiện file thay đổi. Nó kiểm tra xem file có nằm trong danh sách **Ignore/Exclude** không.
 3. **Upload:** Nếu hợp lệ, file được chia nhỏ (chunking) và đẩy lên Cloud. 
-4. **Output:** Cloud xác nhận đồng bộ thành công \(\rightarrow\) Hiện **tích xanh** (File đã an toàn trên mây, sẵn sàng giải phóng dung lượng ổ cứng).
+4. **Output:** Cloud xác nhận đồng bộ thành công Hiện **tích xanh** (File đã an toàn trên mây, sẵn sàng giải phóng dung lượng ổ cứng).
 
 ### PHẦN 2: THIẾT KẾ & XỬ LÝ BẪY DỮ LIỆU
 **1. Xử lý bẫy `node_modules`:**
