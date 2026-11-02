@@ -8,4 +8,4 @@
 - Sửa margin-right: -20px thành margin-right: 20px tại .lesson-content
 - Thêm box-sizing: border-box; cho cả .lesson-content và .video-list
 - Chỉnh width: .lesson-content là 65%, .video-list là 32%
-- Thêm overflow: hidden; vào thẻ cha bọc ngoài 2 khung để chống vỡ layout (clear float)
+- Thêm overflow: hidden vào thẻ cha bọc ngoài 2 khung để chống vỡ layout 
