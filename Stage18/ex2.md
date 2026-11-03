@@ -1,8 +1,10 @@
 <img width="1027" height="866" alt="image" src="https://github.com/user-attachments/assets/12297f33-e1ce-4d43-8669-35a56ad0f190" />
 <img width="927" height="677" alt="image" src="https://github.com/user-attachments/assets/a6b4c09d-3f9e-440c-b4dd-80d44caa3f58" />
+
 # Phần 1:
+
 | Tiêu chí | Cookies | Cache |
-|-----------|----------|--------|
+| --- | --- | --- |
 | Dung lượng | Nhỏ (~4KB) | Lớn (MB - GB) |
 | Mục đích | Lưu thông tin đăng nhập, token, phiên làm việc | Lưu ảnh, CSS, JS, dữ liệu website |
 | Gửi lên Server | Có | Không |
