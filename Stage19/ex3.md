@@ -27,3 +27,9 @@
 - vào settings -> sessions -> sign out of all other sessions
 - vào settings -> developer settings -> personal access tokens -> revoke all các token đang có
 - bật 2fa trong settings -> password and authentication
+<img width="1007" height="877" alt="image" src="https://github.com/user-attachments/assets/ed8df3c6-4304-4f0f-8bde-6a5963c25bf1" />
+<img width="1028" height="437" alt="image" src="https://github.com/user-attachments/assets/8ca2c5df-d4e0-4205-8525-594d92cb0be0" />
+<img width="1010" height="861" alt="image" src="https://github.com/user-attachments/assets/eae172a4-5f77-4a79-ab46-9e6f93e54fe6" />
+
+
+
