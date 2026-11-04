@@ -1,3 +1,6 @@
+<img width="660" height="148" alt="image" src="https://github.com/user-attachments/assets/3073c945-19db-4d59-9f84-da750a470a8b" />
+
+
 # phần 1 nhận diện rủi ro và xử lý sự cố
 
 1. tình huống 1
